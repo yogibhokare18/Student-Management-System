@@ -81,15 +81,31 @@ python main.py
 
 ### Home Screen
 
-(Add Screenshot Here)
-
-### Student List
-
-(Add Screenshot Here)
+![Home](screenshots/home.png)
 
 ### Add Student
 
-(Add Screenshot Here)
+![Add Student](screenshots/add.png)
+
+### Search Student
+
+![Search Student](screenshots/search.png)
+
+### Update Student
+
+![Update Student](screenshots/update.png)
+
+### Delete Student
+
+![Delete Student](screenshots/delete.png)
+
+### View Student
+
+![View Student](screenshots/view.png)
+
+### View Student Details
+
+![View Student Details](screenshots/view2.png)
 
 ---
 
